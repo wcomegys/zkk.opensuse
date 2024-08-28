@@ -5,4 +5,4 @@
     • Tracked by repo URL enabled, Average download speed, good downloads, failed downloads, failure date and time, these will roll off as new ones are added.
     • Logging in /var/log/zkk_download_shim, one log for all, with lines timestamped and with PID, program and repo. zkk does have a problem keeping up with writing the logs, this problem is non-blocking.
     • Before each dispatch cycle checks memory, diskspace free, and how many ZK_downLoader are running configurable in /etc/zkk_download_shim/zkk.conf
-    Please see zkk.odt 
+    Please see zkk.pdf
