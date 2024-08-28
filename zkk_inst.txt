@@ -1,0 +1,6 @@
+Installation of prerequisites:
+1. Install with zypper as root:
+zypper install libncurses5 libreadline6 aria2
+
+Download from the Regina REXX site in the 3.9.6 folder and run.
+rpm --install libregina3-3.9.6-240341.1-x86_64-RHEL-7.rpm regina-rexx-3.9.6-240341.1-x86_64-RHEL-7.rpm
